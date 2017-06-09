@@ -31,8 +31,8 @@ overridedb.*
 *.ipr
 *.iws
 .idea
-*.jar
 .DS_Store
 .factorypath
+.properties
 dump.rdb
 transaction-logs
